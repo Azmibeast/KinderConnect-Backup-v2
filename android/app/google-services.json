@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "276362936262",
+    "project_id": "kinderconnect-ebe37",
+    "storage_bucket": "kinderconnect-ebe37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276362936262:android:f47119f0ecdf81364abcc7",
+        "android_client_info": {
+          "package_name": "com.kinderconnect.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQAtsIxixq9l0knEEWoDZ7w1GmXcr-4LA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276362936262:android:f1864fecce2361bf4abcc7",
+        "android_client_info": {
+          "package_name": "com.kinderconnect.kinderconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQAtsIxixq9l0knEEWoDZ7w1GmXcr-4LA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
